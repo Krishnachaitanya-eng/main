@@ -1,0 +1,29 @@
+2024-08-15 17:14:11 DEBUG Logger4j:13 - This is a debug message
+2024-08-15 17:14:11 INFO  Logger4j:14 - This is an info message
+2024-08-15 17:14:11 WARN  Logger4j:15 - This is a warn message
+2024-08-15 17:14:11 ERROR Logger4j:16 - This is an error message
+2024-08-15 17:14:11 FATAL Logger4j:17 - This is a fatal message
+2024-08-15 17:40:39 INFO  TestListner:47 - Test suite started: Test Name
+2024-08-15 17:40:40 INFO  TestListner:20 - Test started: sampleTest
+2024-08-15 17:40:41 INFO  TestListner:25 - Test passed: sampleTest
+2024-08-15 17:40:41 INFO  TestListner:20 - Test started: test
+2024-08-15 17:40:41 WARN  TestListner:37 - Test skipped: test
+2024-08-15 17:40:41 INFO  TestListner:52 - Test suite finished: Test Name
+2024-08-15 17:43:12 INFO  TestListner:47 - Test suite started: Test Name
+2024-08-15 17:43:13 INFO  TestListner:20 - Test started: null
+2024-08-15 17:43:14 INFO  TestListner:25 - Test passed: sampleTest
+2024-08-15 17:43:14 INFO  TestListner:20 - Test started: null
+2024-08-15 17:43:14 WARN  TestListner:37 - Test skipped: test
+2024-08-15 17:43:14 INFO  TestListner:52 - Test suite finished: Test Name
+2024-08-15 17:44:13 INFO  TestListner:47 - Test suite started: Test Name
+2024-08-15 17:44:14 INFO  TestListner:20 - Test started: null
+2024-08-15 17:44:15 INFO  TestListner:25 - Test passed: sampleTest
+2024-08-15 17:44:15 INFO  TestListner:20 - Test started: null
+2024-08-15 17:44:15 WARN  TestListner:37 - Test skipped: test
+2024-08-15 17:44:15 INFO  TestListner:52 - Test suite finished: Test Name
+2024-08-15 17:45:08 INFO  TestListner:47 - Test suite started: Test Name
+2024-08-15 17:45:08 INFO  TestListner:20 - Test started: Test Name
+2024-08-15 17:45:09 INFO  TestListner:25 - Test passed: sampleTest
+2024-08-15 17:45:09 INFO  TestListner:20 - Test started: Test Name
+2024-08-15 17:45:09 WARN  TestListner:37 - Test skipped: test
+2024-08-15 17:45:09 INFO  TestListner:52 - Test suite finished: Test Name

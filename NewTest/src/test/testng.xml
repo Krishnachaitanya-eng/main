@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite Name" parallel="tests" thread-count="2">
+
+    <!-- Specify the listener class here -->
+    <listeners>
+        <listener class-name="org.Test.TestListner"/>
+    </listeners>
+
+    <!-- Define test classes -->
+    <test name="Test Name">
+        <classes>
+            <class name="org.Test.AppTest"/>
+        </classes>
+    </test>
+
+</suite>
